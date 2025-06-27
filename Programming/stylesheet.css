@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    font-size: 50px;
+    margin: 0 0;
+}
+h1
+{
+    font-family: "Share Tech", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #c0ad9f;
+}
+.Isian
+{
+    justify-content: center;
+}
+
+.Isian Button
+{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    height: 95px;
+    width: 360px;
+    border-radius: 55px;
+    border: none;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    background-color: #493d33;
+
+    font-size: 80%;
+    font-family: "Share Tech", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #c0ad9f;
+}
+
+.Isian input
+{
+    border: none;
+    background-color: #c0ad9f;
+    height: 55px;
+    width: 360px;
+    border-radius: 10px;
+
+    font-family: "Share Tech", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 45%;
+}
+.Isian input::placeholder
+{
+    color: #493d33;
+    position: absolute;
+    left: 10%;
+}
+.Isian select
+{
+    border: none;
+    background-color: #c0ad9f;
+    height: 55px;
+    width: 360px;
+    border-radius: 10px;
+
+    font-family: "Share Tech", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 45%;
+    color: #493d33;
+}
